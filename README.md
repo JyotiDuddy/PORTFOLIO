@@ -6,7 +6,7 @@
 Designed and developed using React.js, Tailwind CSS, and Framer Motion for smooth animations.
 It showcases my skills, projects, and contact information in a clean, professional layout optimized for all devices.
 
-🔗 Live Demo: https://jyoti-portfolio.netlify.app
+🔗 Live Demo: https://jyotidevportfolio.netlify.app/
 
 💻 Tech Stack: React.js | Tailwind CSS | Framer Motion | Responsive Design
 
